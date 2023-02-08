@@ -144,3 +144,16 @@ li{
   text-decoration: line-through;
   color: var(--black-footer);
 }
+
+/* footer */
+
+footer{
+  background-color: var(--black-footer);
+  color: var(--white-main);
+  padding: 20px 0;
+
+}
+
+footer li{
+  padding-right: 10px;
+}
