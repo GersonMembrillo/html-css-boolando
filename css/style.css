@@ -59,6 +59,10 @@ nav ul{
 
 /* main */
 
+.main{
+  margin: 40px auto;
+}
+
 .row {
   display: flex;
   flex-flow: row nowrap;
@@ -118,6 +122,10 @@ nav ul{
     bottom: 40px;
   background-color: green;
   color: var(--white-main);
+}
+
+.no-left{
+  left: 0;
 }
 
 li{
